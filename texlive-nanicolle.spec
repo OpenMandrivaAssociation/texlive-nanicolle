@@ -1,6 +1,6 @@
 Name:		texlive-nanicolle
 Version:	56224
-Release:	1
+Release:	2
 Summary:	Typesetting herbarium specimen labels
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nanicolle
